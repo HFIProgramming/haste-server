@@ -1,5 +1,10 @@
 # Haste
 
+对国内网络环境友好的 Pastbin  
+使用前请阅读`about.md`  
+这个仓库做了如下修改：
+- 替换`GoogleApis`到国内`USTCLUG`提供的服务
+
 Haste is an open-source pastebin software written in node.js, which is easily
 installable in any network.  It can be backed by either redis or filesystem,
 and has a very easy adapter interface for other stores.  A publicly available
