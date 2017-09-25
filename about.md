@@ -1,5 +1,9 @@
 # Haste
 
+和别人分享你的代码，语句，或者任何你想要展示的东西！  
+基于开源项目，当前网站由HFI编程社托管  
+使用时必须准守当地法律，本网站不对用户上传的信息负责  
+
 Sharing code is a good thing, and it should be _really_ easy to do it.
 A lot of times, I want to show you something I'm seeing - and that's where we
 use pastebins.
